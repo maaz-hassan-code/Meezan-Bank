@@ -130,6 +130,8 @@ main{
 .hs{ 
     background-color: #701e7d;
     align-items: center;
+    width: 100%;
+    height: 28rem;
 }
 
 
@@ -147,22 +149,11 @@ main{
     align-items: center;
     display: flex;
     justify-content: center;
-    width: 100%;
-    height: 32rem;
-    background-color: #701e7d;
+    font-size: 0.8rem;
 }
-
 .im {
     margin: 1rem;
 }
-
-img{ 
-    width: 160px;
-    height: 160px;
-}
-
-
-
 .cont{ 
     color: white;
     text-align: center;
